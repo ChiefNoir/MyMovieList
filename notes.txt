@@ -1,3 +1,9 @@
 Creating v-env
 	python3 -m venv <DIR>
 	source <DIR>/bin/activate
+
+Migrate
+	python manage.py migrate
+
+Runserv
+	python manage.py runserver
