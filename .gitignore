@@ -99,3 +99,9 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# PyCharm things
+.idea/
+
+# local db
+db.sqlite3
