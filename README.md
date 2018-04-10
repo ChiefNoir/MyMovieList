@@ -1,2 +1,3 @@
 # MyMovieList
-Just playing with python &amp; django
+Just playing around with python && django.
+Nothing much.
