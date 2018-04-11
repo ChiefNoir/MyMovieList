@@ -4,6 +4,7 @@ Creating v-env
 
 Migrate
 	python manage.py migrate
+    python manage.py makemigrations <core>
 
 Runserv
 	python manage.py runserver
