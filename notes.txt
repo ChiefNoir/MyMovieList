@@ -8,3 +8,6 @@ Migrate
 
 Runserv
 	python manage.py runserver
+
+Superuser
+    python manage.py createsuperuser
