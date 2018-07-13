@@ -20,4 +20,5 @@ from core import api
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('api/ping/', api.ping),
+    path('api/getGenres/<int:start>/<int:end>', api.getGenres),
 ]
